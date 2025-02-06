@@ -5,6 +5,7 @@
 //First part of shut the box to prompt user if they want instructions and if yes print from the supplied .txt
 #include <iostream>
 #include <fstream>
+#include <string>
 using namespace std;
 
 int main(){
