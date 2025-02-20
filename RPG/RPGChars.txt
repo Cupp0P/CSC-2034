@@ -1,0 +1,2 @@
+Robert Bob:Elf:Pickaxe,Bow,Arrows,:Archery,Mining,Stealth:
+Gilber Goob:Goblin:Sword,Meat,Potion:Deception,Stealth,Swords:
