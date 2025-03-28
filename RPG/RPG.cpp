@@ -145,7 +145,18 @@ int main(){
     }
     cout << endl << endl;
 
+
+    int str = 10;
+    int bigger = 10;
+    
+
+    cout << endl << str;
+
     return 0;
+
+    
+
+
 }\
 //PROBLEMS:
 //For one thing this is a pretty messy way to do it. The second characters output for the vectors is all out of sorts. Could almost certainly make this much
